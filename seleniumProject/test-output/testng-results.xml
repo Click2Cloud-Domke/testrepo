@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7" started-at="2020-01-27T18:13:46 IST" finished-at="2020-01-27T18:13:46 IST">
+  <suite name="Default suite" duration-ms="31478" started-at="2020-02-11T11:26:39 IST" finished-at="2020-02-11T11:27:11 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7" started-at="2020-01-27T18:13:46 IST" finished-at="2020-01-27T18:13:46 IST">
+    <test name="Default test" duration-ms="31478" started-at="2020-02-11T11:26:39 IST" finished-at="2020-02-11T11:27:11 IST">
+      <class name="ptmlogin.PtmBase">
+        <test-method status="PASS" signature="f()[pri:0, instance:ptmlogin.PtmBase@6ebc05a6]" name="f" duration-ms="31445" started-at="2020-02-11T11:26:39 IST" finished-at="2020-02-11T11:27:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- ptmlogin.PtmBase -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

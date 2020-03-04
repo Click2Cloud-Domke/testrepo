@@ -3,13 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Login.InvaliLogin">
+      <class name="ptmlogin.PtmBase">
         <methods>
-          <include name="closeApplication"/>
-          <include name="loginToApplication"/>
-          <include name="setupApplication"/>
+          <include name="f"/>
         </methods>
-      </class> <!-- Login.InvaliLogin -->
+      </class> <!-- ptmlogin.PtmBase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
